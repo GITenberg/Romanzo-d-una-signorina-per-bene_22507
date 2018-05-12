@@ -1,0 +1,28 @@
+_repo: Romanzo-d-una-signorina-per-bene_22507
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vertua Gentile, Anna
+    alias: Gentile, Anna Vertua
+    birthdate: 1850
+    deathdate: 1926
+    gutenberg_agent_id: '25369'
+    url: http://www.gutenberg.org/2009/agents/25369
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22507'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Romanzo d'una signorina per bene
+url: http://www.gutenberg.org/ebooks/22507
